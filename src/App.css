@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Cinzel&family=Ephesis&family=Indie+Flower&family=Lemon&family=Roboto:ital,wght@0,400;1,100&family=Rubik+Scribble&family=Varela+Round&display=swap');
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.textImg{
+  background-image: url('https://th.bing.com/th/id/OIP.1R8Of3B5ZureDKme7d1XVwHaEc?w=272&h=180&c=7&r=0&o=5&dpr=1.9&pid=1.7');
+}
+.makeItBig{
+  position:absolute;
+  /* background-image: url('https://i.pinimg.com/474x/70/6c/45/706c45ad772d74d7870ba7185ae97925.jpg');
+  filter:blur(10px); */
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+  height:100%;
+  width:100%;
+}
+.introLine{
+  font-family:"lemon","sans-serif";
+}
+.bg-secondary-subtle{
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  height:100%;
+  width:100%;
+}
+.makeItBlue{
+  background-color: lightgray;
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  height:100%;
+  width:100%;
+}
+/* .backChange{
+  position: absolute;
+  left:0;
+  right:0;
+  height:100%;
+  width:100%;
+} */
+.contactbg{
+  background-color: blanchedalmond;
+  color:rgb(19, 45, 123);
+}
+.aboutbg{
+  background-color: rgb(19, 45, 123);
+  color:blanchedalmond;
+  
+}
+.pageEnd{
+  background-color:white;
+  margin-top: 130px;
+  position: absolute;
+  left:0;
+  right:0;
+}
+.box{
+  height: 5px;
+  width: 5px;
+  border-color: black;
+
+}
+.borderEdu{
+  height:200px;
+  width:70vh;
+  border: 2px solid #ccc;
+  padding: 39px 0px;
+}
+
+.coverBg{
+  position: absolute;
+  top:0;
+  left:0;
+  right:0;
+  height:100%;
+  width:100%;
+
+}
+
+.changeFont{
+  font-family:'cinzel','sans-serif';
+  color:white;
+}
