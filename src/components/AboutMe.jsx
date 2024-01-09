@@ -6,7 +6,7 @@ export default function AboutMe() {
       <div className="d-flex flex-column" style={{left:'0',backgroundColor:'rgb(19, 45, 123)'}}>
         <div className="d-flex flex-row" >
             <div>
-                <img src="src\assets\portfolioPicture.jpeg" style={{height:'43vw',width:'60vh'}}></img>
+                <img src="/assets/portfolioPicture.jpeg" style={{height:'43vw',width:'60vh'}}></img>
             </div>
             <div style={{width:'50vw',marginLeft:'20vh',marginTop:'18vh'}}>
                 <p className="changeFont">

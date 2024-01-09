@@ -5,20 +5,20 @@ export default function IconsSetting() {
     <div >
       <div className="d-flex flex-row justify-content-around"style={{marginTop:'20vh',fontFamily:'cinzel'}} >
           <div >
-          <img src="src\assets\globe2.svg" style={{height:'60px',color:'white'}}></img>
+          <img src="public\assets\globe2.svg" style={{height:'60px',color:'white'}}></img>
 
           <div style={{marginTop:'10px'}}> World class Apps</div>
           </div>
           <div>
-          <img src="src\assets\bricks.svg" style={{height:'60px'}}></img>
+          <img src="public\assets\bricks.svg" style={{height:'60px'}}></img>
           <div style={{marginTop:'10px'}}> Tailored To Your Needs</div>
           </div>
           <div>
-          <img src="src\assets\pen.svg" style={{height:'60px'}}></img>
+          <img src="public\assets\pen.svg" style={{height:'60px'}}></img>
           <div style={{marginTop:'10px'}}> Pixel Perfect Code</div>
           </div>
           <div>
-          <img src="src\assets\heart.svg" style={{height:'60px'}}></img>
+          <img src="public\assets\heart.svg" style={{height:'60px'}}></img>
           <div style={{marginTop:'10px'}}> Built With Love</div>
           </div>
         </div>
